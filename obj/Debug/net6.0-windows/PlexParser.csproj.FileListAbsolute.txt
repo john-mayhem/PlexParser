@@ -1,0 +1,16 @@
+C:\Users\maksi\Desktop\proj1\PlexParser\bin\Debug\net6.0-windows\PlexParser.exe
+C:\Users\maksi\Desktop\proj1\PlexParser\bin\Debug\net6.0-windows\PlexParser.deps.json
+C:\Users\maksi\Desktop\proj1\PlexParser\bin\Debug\net6.0-windows\PlexParser.runtimeconfig.json
+C:\Users\maksi\Desktop\proj1\PlexParser\bin\Debug\net6.0-windows\PlexParser.dll
+C:\Users\maksi\Desktop\proj1\PlexParser\bin\Debug\net6.0-windows\PlexParser.pdb
+C:\Users\maksi\Desktop\proj1\PlexParser\obj\Debug\net6.0-windows\PlexParser.csproj.GenerateResource.cache
+C:\Users\maksi\Desktop\proj1\PlexParser\obj\Debug\net6.0-windows\PlexParser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maksi\Desktop\proj1\PlexParser\obj\Debug\net6.0-windows\PlexParser.AssemblyInfoInputs.cache
+C:\Users\maksi\Desktop\proj1\PlexParser\obj\Debug\net6.0-windows\PlexParser.AssemblyInfo.cs
+C:\Users\maksi\Desktop\proj1\PlexParser\obj\Debug\net6.0-windows\PlexParser.csproj.CoreCompileInputs.cache
+C:\Users\maksi\Desktop\proj1\PlexParser\obj\Debug\net6.0-windows\PlexParser.dll
+C:\Users\maksi\Desktop\proj1\PlexParser\obj\Debug\net6.0-windows\refint\PlexParser.dll
+C:\Users\maksi\Desktop\proj1\PlexParser\obj\Debug\net6.0-windows\PlexParser.pdb
+C:\Users\maksi\Desktop\proj1\PlexParser\obj\Debug\net6.0-windows\PlexParser.genruntimeconfig.cache
+C:\Users\maksi\Desktop\proj1\PlexParser\obj\Debug\net6.0-windows\ref\PlexParser.dll
+C:\Users\maksi\Desktop\proj1\PlexParser\obj\Debug\net6.0-windows\PlexParser.Multiplex.resources
