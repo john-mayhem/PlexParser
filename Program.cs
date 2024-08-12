@@ -13,7 +13,10 @@ namespace PlexParser
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Multiplex());  // Form1 is the main form to open
+            
+            // Start the application with the Multiplex form.
+            // This form is the main interface for the user.
+            Application.Run(new Multiplex());
         }
     }
 }

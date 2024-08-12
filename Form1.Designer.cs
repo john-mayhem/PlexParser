@@ -52,7 +52,6 @@
             buttonExit.TabIndex = 0;
             buttonExit.Text = "Exit";
             buttonExit.UseVisualStyleBackColor = true;
-            buttonExit.Click += buttonExit_Click;
             // 
             // buttonCreate
             // 
@@ -62,7 +61,6 @@
             buttonCreate.TabIndex = 1;
             buttonCreate.Text = "Create";
             buttonCreate.UseVisualStyleBackColor = true;
-            buttonCreate.Click += buttonCreate_Click;
             // 
             // openFileDialog
             // 
@@ -121,7 +119,6 @@
             inputTextBox.Name = "inputTextBox";
             inputTextBox.Size = new Size(443, 23);
             inputTextBox.TabIndex = 7;
-            inputTextBox.TextChanged += inputTextBox_TextChanged;
             // 
             // outputTextBox
             // 
@@ -129,7 +126,6 @@
             outputTextBox.Name = "outputTextBox";
             outputTextBox.Size = new Size(443, 23);
             outputTextBox.TabIndex = 8;
-            outputTextBox.TextChanged += outputTextBox_TextChanged;
             // 
             // buttonSelectFile
             // 
@@ -139,7 +135,6 @@
             buttonSelectFile.TabIndex = 9;
             buttonSelectFile.Text = "Select File";
             buttonSelectFile.UseVisualStyleBackColor = true;
-            buttonSelectFile.Click += buttonSelectFile_Click;
             // 
             // buttonSelectFolder
             // 
@@ -149,7 +144,6 @@
             buttonSelectFolder.TabIndex = 10;
             buttonSelectFolder.Text = "Select Folder";
             buttonSelectFolder.UseVisualStyleBackColor = true;
-            buttonSelectFolder.Click += buttonSelectFolder_Click;
             // 
             // Multiplex
             // 
